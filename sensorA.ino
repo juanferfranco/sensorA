@@ -12,6 +12,10 @@ void loop() {
 
 void taskC(){
 
+  uint8_t counter = 0;
 
+
+
+  
   
 }
