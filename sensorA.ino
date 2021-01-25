@@ -9,3 +9,17 @@ void loop() {
   taskC();
 
 }
+
+void taskC() {
+
+  uint8_t counter = 0;
+
+  uint8_t counter = 0;
+  uint8_t counter = 0;
+  uint8_t counter = 0;
+  uint8_t counter = 0;
+
+
+
+
+}
