@@ -10,6 +10,10 @@ void loop() {
 
 }
 
+void taskA(){
+  
+  }
+
 void taskC() {
 
   uint8_t counter = 0;
